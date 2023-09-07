@@ -33,11 +33,57 @@
 
 15. `<span>`: A generic inline container for text and other inline elements.
 
+## Certainly, here's an explanation of the CSS properties listed without numbers:
 
+- `color`: Sets the text color.
 
+- `font-family`: Specifies the typeface or font for text.
 
+- `font-size`: Determines the size of the font.
 
-These are some of the fundamental HTML tags that web developers use to structure and format web content. There are many more HTML elements available for specific purposes, but these are some of the most commonly used ones for creating web pages.
+- `font-weight`: Controls the thickness of characters (boldness).
+
+- `font-style`: Defines the style of the font (italic, normal, etc.).
+
+- `text-align`: Sets the horizontal alignment of text (left, right, center, justify).
+
+- `text-decoration`: Adds underlines, overlines, or strikes through text.
+
+- `line-height`: Specifies the vertical space between lines of text.
+
+- `letter-spacing`: Adjusts the space between characters in text.
+
+- `word-spacing`: Modifies the space between words in text.
+
+- `background-color`: Sets the background color of an element.
+
+- `background-image`: Adds a background image to an element.
+
+- `background-size`: Controls the size of the background image.
+
+- `background-position`: Determines the starting position of the background image.
+
+- `margin`: Sets the external spacing around an element.
+
+- `padding`: Defines the internal spacing within an element.
+
+- `border`: Adds borders around elements, including thickness, style, and color.
+
+- `width` and `height`: Specifies the dimensions of an element.
+
+- `display`: Determines how an element is displayed (e.g., block, inline, inline-block).
+
+- `position`: Sets the positioning method for an element (e.g., static, relative, absolute).
+
+- `top`, `right`, `bottom`, and `left`: Controls the positioning of an element when using `position: absolute` or `position: relative`.
+
+- `z-index`: Controls the stacking order of overlapping elements.
+- 
+- `transform`: Applies 2D or 3D transformations to elements (e.g., scaling, rotating).
+- 
+- `overflow`: Controls how content that overflows an element is displayed (e.g., hidden, scroll).
+
+These CSS properties provide extensive control over the presentation and layout of HTML elements on web pages. Designers and developers use them to create visually appealing and responsive websites.
 
 ![Screenshot 2023-09-07 233145](https://github.com/divyanshrajpoot9/TypographyInDesignSystems/assets/114856467/d1107283-de01-40b8-8918-451b02a4b7d2)
 ![Screenshot 2023-09-07 233222](https://github.com/divyanshrajpoot9/TypographyInDesignSystems/assets/114856467/e2084635-613c-41d6-855d-e762c43a02e6)
