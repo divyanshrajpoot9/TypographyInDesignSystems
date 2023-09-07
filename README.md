@@ -78,9 +78,9 @@
 - `top`, `right`, `bottom`, and `left`: Controls the positioning of an element when using `position: absolute` or `position: relative`.
 
 - `z-index`: Controls the stacking order of overlapping elements.
-- 
+ 
 - `transform`: Applies 2D or 3D transformations to elements (e.g., scaling, rotating).
-- 
+  
 - `overflow`: Controls how content that overflows an element is displayed (e.g., hidden, scroll).
 
 These CSS properties provide extensive control over the presentation and layout of HTML elements on web pages. Designers and developers use them to create visually appealing and responsive websites.
