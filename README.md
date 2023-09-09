@@ -1,6 +1,6 @@
 # TypographyInDesignSystems.
-# Hosted file link: https://divyanshrajpoot9.github.io/TypographyInDesignSystems/
-## HTML(Hypertext Markup Language) uses a variety of tags to structure web content. These tags provide the basic building blocks for creating web pages. 
+## Hosted file link: https://divyanshrajpoot9.github.io/TypographyInDesignSystems/
+## HTML (Hypertext Markup Language) uses a variety of tags to structure web content. These tags provide the basic building blocks for creating web pages. 
 ## Brief description of some of the most commonly used HTML general tags:
 
 1. `<!DOCTYPE>`: This declaration defines the document type and version of HTML being used. It typically appears at the very beginning of an HTML document.
@@ -33,7 +33,7 @@
 
 15. `<span>`: A generic inline container for text and other inline elements.
 
-## Certainly, here's an explanation of the CSS properties listed:
+## An explanation of the CSS properties listed Below:
 
 - `color`: Sets the text color.
 
